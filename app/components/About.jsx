@@ -1,4 +1,5 @@
 var React = require('react');
+var React = require('react');
 
 // Using stateless functional components but now with arrow functions
 // -----------------------------------------
