@@ -16,6 +16,7 @@ var ErrorModal = React.createClass({
         <h4>{title}</h4>
         <p>{message}</p>
         <p>
+          <adding new button to feature56></adding>
           <button className="button" data-close="">Okay</button>
         </p>
       </div>
@@ -49,6 +50,8 @@ var ErrorModal = React.createClass({
 
     var modal = new Foundation.Reveal($('#error-modal'));
     modal.open();
+    adding new feature here in master
+    adding an extra feature again in master
   },
   // The render function returns a basic DOM that will be modified,
   // after the component has ben mounted. We need to do this because
